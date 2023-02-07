@@ -6,7 +6,6 @@
  * @description: In this script I will write a program that converts a given total number of seconds into hours, minutes and seconds.
  */
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 public class TimeConversion {
     public static void main(String[] args){
