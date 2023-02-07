@@ -20,7 +20,7 @@ public class TimeConversion {
         int minutes = (totalSeconds % 3600) / 60;
 // This is the equation for converting seconds
         int seconds = totalSeconds % 60;
-
+// This will be the new output
         System.out.println(hours + " hours, " + minutes + " minutes and " + seconds + " seconds");
 
 
